@@ -20,17 +20,18 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+Key Highlights of the Project:
 
-To learn more about Next.js, take a look at the following resources:
+Authentication: Implemented secure user login and registration with JWT-based authentication.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Task Management: Users can easily create, update, delete, and manage tasks with a seamless experience.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Custom Backend: Built a custom REST API from scratch to handle task operations, ensuring full control and flexibility.
 
-## Deploy on Vercel
+State Management: Leveraged Redux Toolkit for global state management, making the app highly scalable and maintainable.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Database: Integrated MongoDB for reliable and fast data storage, ensuring smooth performance and real-time updates.
+
+This project was an exciting challenge and a great opportunity to deepen my skills in React.js, Node.js, MongoDB, and Redux Toolkit while delivering a robust solution for task management
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.

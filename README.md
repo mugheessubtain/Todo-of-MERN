@@ -1,4 +1,4 @@
-## Key Highlights of the Project:
+## Key Highlights of the Project :
 
 Authentication: Implemented secure user login and registration with JWT-based authentication.
 
